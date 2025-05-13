@@ -1,1 +1,2 @@
 This is the first document
+Now i want to change this file by another developer
